@@ -1,0 +1,19 @@
+Python scripting
+  document processing
+  ETL
+  web scraping
+
+Visualizations
+  graphs
+  charts
+  dashboards
+
+Machine Learning
+
+KPI
+  track
+  define
+
+  Define Technologies
+  Python
+  Excel
